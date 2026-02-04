@@ -2,12 +2,12 @@
 <HTML>
   <head>
      <title>
-       SRAM Red AXS 
+       about 
      </title>
   </head>
   <body bgcolor="#D30000">
      <H1>
-       NEW SRAM RED AXS
+       about
      </h1>
   </body>
 </HTML>
@@ -66,3 +66,4 @@
 
 
 </body>
+
