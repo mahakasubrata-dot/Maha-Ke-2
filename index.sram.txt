@@ -20,7 +20,7 @@
 
 <li><a href="#">Home</a></li>
 
-<li><a href="#">About</a></li>
+<li><a href="#">about</a></li>
 
 <li><a href="#">Blog</a></li>
 
@@ -63,5 +63,6 @@
 </ul>
 
 <p>copyright 2026 delayota all reserved</p>
+
 
 </body>
